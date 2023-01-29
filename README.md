@@ -12,10 +12,15 @@
 - 💻 I'm trying to be better than I was yesterday.
 - ☕ How to reach me **ferit.keskin69@gmail.com**
 
-* Kotlin
-* Git, Github
-* OOP
-* Clean Code
+* MVVM
+* Retrofit & RxJava
+* Navigation
+* View Binding
+* Data Binding
+* Firebase
+* LiveData
+* SQLite
+* Git
 
 ### Technologies
 
