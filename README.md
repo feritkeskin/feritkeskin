@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feritkeskin&layout=compact&show_icons=true&theme=radical">
 
-- 🌱 I'm developing projects related to **Kotlin**
+- 📱 I'm developing projects related to **Kotlin**
 - 💻 I'm trying to be better than I was yesterday.
 - ☕ How to reach me **ferit.keskin69@gmail.com**
 
